@@ -1,16 +1,16 @@
-Matsvei Chystsik
+## Matsvei Chystsik
 
-Contacts :
+### Contacts :
 
--Discord: Joint Left
--E-mail: moteoo@gmail.com
+* Discord: Joint Left
+* E-mail: moteoo@gmail.com
 
-About myself:
+### About myself:
 Once completed stage 1, but failed interview with mentor for stage 2 (СSS part was my bad).
 Now trying to recollect what is it all about after ~4 years break.
 
-Code example: 
-// partition the items array so that all values for which pred returns true are
+### Code example: 
+```// partition the items array so that all values for which pred returns true are
 // at the end, returning the index of the first true value
 function partitionOn(pred, items) {
 let arr = []; //copy of items
@@ -33,16 +33,16 @@ for (let j =0; j<arr.length; j++) { // replace all items in items
  
 return p
 }
-
+```
 Источник <https://www.codewars.com/kata/525a037c82bf42b9f800029b/solutions/javascript?filter=me&sort=best_practice&invalids=false> 
 
-Work experience:
+### Work experience:
 ~ 6 years EPAM contractor as a Scientific Curation Specialist (Chemist)
 
-Education and courses:
-University of Gdansk: Medicinal Chemistry, Bachelor
-University of Gdansk: Virus Molecular Biology, Master
+### Education and courses:
+* University of Gdansk: Medicinal Chemistry, Bachelor
+* University of Gdansk: Virus Molecular Biology, Master
 
-Language:
-English - unconfirmed B2 
-Polish - C1 (but not used for a long time)
+### Languages:
+* English - unconfirmed B2 
+* Polish - C1 (but not used for a long time)
